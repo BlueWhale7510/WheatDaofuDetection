@@ -1,0 +1,2 @@
+# WheatDaofuDetection
+基于ResNet50的小麦倒伏检测模型
